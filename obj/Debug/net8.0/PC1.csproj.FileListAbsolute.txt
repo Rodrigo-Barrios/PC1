@@ -28,3 +28,4 @@ C:\PC1\obj\Debug\net8.0\refint\PC1.dll
 C:\PC1\obj\Debug\net8.0\PC1.pdb
 C:\PC1\obj\Debug\net8.0\PC1.genruntimeconfig.cache
 C:\PC1\obj\Debug\net8.0\ref\PC1.dll
+C:\PC1\obj\Debug\net8.0\PC1.sourcelink.json
