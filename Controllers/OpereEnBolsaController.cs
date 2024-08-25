@@ -20,6 +20,7 @@ namespace PC1.Controllers
 
         public IActionResult Index()
         {
+            ViewData["listaOperaciones"] = new List<Operacion>();
             return View();
         }
 
